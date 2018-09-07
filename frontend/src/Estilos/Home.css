@@ -1,0 +1,69 @@
+
+html,body{
+    margin:0px;
+    height:100%;
+    width:100%;
+    
+    
+}
+#app {
+   background:url(cine.jpg) ;
+   background-repeat: no-repeat;
+    background-size: 100% 100%;
+   height: 100%;
+    
+
+}
+.ContactForm {
+    position: absolute;
+    top:  200px; 
+    left: 450px;
+margin: auto;
+width: 50%;
+max-width: 500px;
+background: rgba(255, 0, 0, 0.58);
+padding: 30px;
+border: 1px solid rgba(0, 0, 0, 0.2);
+
+}
+.form-control {
+display: block;
+padding: 10px;
+width: 88%;
+margin: 20px  ;
+font-size: 20px;
+background: rgba(218, 218, 218, 0.52);
+border: none;
+}
+.form-control::-webkit-input-placeholder {
+    color: wheat;
+  }
+  .form-control:-moz-placeholder {
+    color:wheat; 
+  }
+  .form-control:-ms-input-placeholder { 
+    color:wheat; 
+  }
+.btn {
+    padding: 10px;
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+.RGTR {
+color:transparent;
+background: linear-gradient(to right, red, #380B61, #01A9DB);
+-webkit-background-clip:text ;
+cursor: pointer;
+text-align: center;
+width: 33%;
+font-size: 80px;
+font-family: 'Bangers', cursiva;
+display: block;
+margin: auto;
+position: absolute;
+    top:  90px;
+    left: 480px; 
+
+}

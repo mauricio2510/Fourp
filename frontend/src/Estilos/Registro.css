@@ -1,0 +1,46 @@
+
+.registro {  
+    height: 100%;
+    background: url(descarga.jpg); 
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+  
+}
+.ContactForm1 {
+
+    margin: auto;
+    width: 50%;
+    max-width: 500px;
+    background: rgba(255, 0, 0, 0.58);
+    padding: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    position: absolute;
+    top: 200px;
+    left: 460px;
+}
+.contenedor2 {
+    display: block;
+padding: 10px;
+width: 88%;
+margin: 20px 15px  ;
+font-size: 20px;
+background:rgba(218, 218, 218, 0.52);
+border: none;
+}
+
+.RGTR1 {
+    color:transparent;
+    background: linear-gradient(to right, red, #380B61, #01A9DB);
+    -webkit-background-clip:text ;
+    cursor: pointer;
+    text-align: center;
+    width: 33%;
+    font-size: 80px;
+    font-family: 'Bangers', cursiva;
+    display: block;
+    margin: auto;
+    position: absolute;
+    top: 85px;
+    left: 485px;
+    
+    }
